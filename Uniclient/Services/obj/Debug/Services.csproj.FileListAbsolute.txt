@@ -1,0 +1,235 @@
+C:\Users\kelly\Documents\Visual Studio 2012\Projects\Uniclient\Services\bin\Debug\Services.dll
+C:\Users\kelly\Documents\Visual Studio 2012\Projects\Uniclient\Services\bin\Debug\Services.pdb
+C:\Users\kelly\Documents\Visual Studio 2012\Projects\Uniclient\Services\obj\Debug\Services.dll
+C:\Users\kelly\Documents\Visual Studio 2012\Projects\Uniclient\Services\obj\Debug\Services.pdb
+F:\Intense C#\Uniclient\Services\bin\Debug\Services.dll
+F:\Intense C#\Uniclient\Services\bin\Debug\Services.pdb
+F:\Intense C#\Uniclient\Services\obj\Debug\Services.dll
+F:\Intense C#\Uniclient\Services\obj\Debug\Services.pdb
+C:\Users\jP\Documents\Visual Studio 2012\Projects\Intense C#\Uniclient\Services\bin\Debug\Services.dll
+C:\Users\jP\Documents\Visual Studio 2012\Projects\Intense C#\Uniclient\Services\bin\Debug\Services.pdb
+C:\Users\jP\Documents\Visual Studio 2012\Projects\Intense C#\Uniclient\Services\obj\Debug\Services.dll
+C:\Users\jP\Documents\Visual Studio 2012\Projects\Intense C#\Uniclient\Services\obj\Debug\Services.pdb
+C:\Users\kelly\Documents\Uniclient\Services\bin\Debug\Services.dll
+C:\Users\kelly\Documents\Uniclient\Services\bin\Debug\Services.pdb
+C:\Users\kelly\Documents\Uniclient\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache
+C:\Users\kelly\Documents\Uniclient\Services\obj\Debug\Services.dll
+C:\Users\kelly\Documents\Uniclient\Services\obj\Debug\Services.pdb
+C:\Users\kelly\Music\GestionUNI\Uniclient\Services\bin\Debug\Services.dll
+C:\Users\kelly\Music\GestionUNI\Uniclient\Services\bin\Debug\Services.pdb
+C:\Users\kelly\Music\GestionUNI\Uniclient\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache
+C:\Users\kelly\Music\GestionUNI\Uniclient\Services\obj\Debug\Services.dll
+C:\Users\kelly\Music\GestionUNI\Uniclient\Services\obj\Debug\Services.pdb
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Services\bin\Debug\Services.dll
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Services\bin\Debug\Services.pdb
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Services\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Services\bin\Debug\itextsharp.dll
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Services\bin\Debug\itextsharp.xml
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Services\obj\Debug\Services.csproj.CopyComplete
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Services\obj\Debug\Services.dll
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Services\obj\Debug\Services.pdb
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Services\bin\Debug\Services.dll.config
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Services\bin\Debug\Common.Logging.Core.dll
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Services\bin\Debug\Common.Logging.dll
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Services\bin\Debug\itext.barcodes.dll
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Services\bin\Debug\itext.commons.dll
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Services\bin\Debug\itext.forms.dll
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Services\bin\Debug\itext.html2pdf.dll
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Services\bin\Debug\itext.io.dll
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Services\bin\Debug\itext.kernel.dll
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Services\bin\Debug\itext.layout.dll
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Services\bin\Debug\itext.licensekey.dll
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Services\bin\Debug\itext.pdfa.dll
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Services\bin\Debug\itext.sign.dll
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Services\bin\Debug\itext.styledxmlparser.dll
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Services\bin\Debug\itext.svg.dll
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Services\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Services\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Services\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Services\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Services\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Services\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Services\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Services\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Services\bin\Debug\System.Buffers.dll
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Services\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Services\bin\Debug\System.Memory.dll
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Services\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Services\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Services\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Services\bin\Debug\System.ValueTuple.dll
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Services\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Services\bin\Debug\Common.Logging.pdb
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Services\bin\Debug\Common.Logging.xml
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Services\bin\Debug\Common.Logging.Core.pdb
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Services\bin\Debug\Common.Logging.Core.xml
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Services\bin\Debug\itext.barcodes.xml
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Services\bin\Debug\itext.commons.xml
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Services\bin\Debug\itext.forms.xml
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Services\bin\Debug\itext.html2pdf.xml
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Services\bin\Debug\itext.io.xml
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Services\bin\Debug\itext.kernel.xml
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Services\bin\Debug\itext.layout.xml
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Services\bin\Debug\itext.licensekey.xml
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Services\bin\Debug\itext.pdfa.xml
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Services\bin\Debug\itext.sign.xml
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Services\bin\Debug\itext.styledxmlparser.xml
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Services\bin\Debug\itext.svg.xml
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Services\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Services\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Services\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Services\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Services\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Services\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Services\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Services\bin\Debug\System.Buffers.xml
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Services\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Services\bin\Debug\System.Memory.xml
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Services\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Services\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Services\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Services\bin\Debug\System.ValueTuple.xml
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Services\obj\Debug\Services.csproj.AssemblyReference.cache
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Services\obj\Debug\Services.csproj.AssemblyReference.cache
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Services\obj\Debug\Services.dll
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Services\obj\Debug\Services.pdb
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\Services.dll.config
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\Services.dll
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\Services.pdb
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\Common.Logging.Core.dll
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\Common.Logging.dll
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\itext.barcodes.dll
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\itext.commons.dll
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\itext.forms.dll
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\itext.html2pdf.dll
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\itext.io.dll
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\itext.kernel.dll
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\itext.layout.dll
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\itext.licensekey.dll
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\itext.pdfa.dll
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\itext.sign.dll
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\itext.styledxmlparser.dll
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\itext.svg.dll
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\itextsharp.dll
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\System.Buffers.dll
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\System.Memory.dll
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\System.ValueTuple.dll
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\Common.Logging.pdb
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\Common.Logging.xml
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\Common.Logging.Core.pdb
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\Common.Logging.Core.xml
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\itext.barcodes.xml
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\itext.commons.xml
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\itext.forms.xml
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\itext.html2pdf.xml
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\itext.io.xml
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\itext.kernel.xml
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\itext.layout.xml
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\itext.licensekey.xml
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\itext.pdfa.xml
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\itext.sign.xml
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\itext.styledxmlparser.xml
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\itext.svg.xml
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\itextsharp.xml
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\System.Buffers.xml
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\System.Memory.xml
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\System.ValueTuple.xml
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Services\obj\Debug\Services.csproj.CopyComplete
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\Services.dll.config
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\Services.dll
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\Services.pdb
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\Common.Logging.Core.dll
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\Common.Logging.dll
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\itext.barcodes.dll
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\itext.commons.dll
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\itext.forms.dll
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\itext.html2pdf.dll
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\itext.io.dll
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\itext.kernel.dll
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\itext.layout.dll
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\itext.licensekey.dll
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\itext.pdfa.dll
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\itext.sign.dll
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\itext.styledxmlparser.dll
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\itext.svg.dll
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\itextsharp.dll
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\System.Buffers.dll
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\System.Memory.dll
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\System.ValueTuple.dll
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\Common.Logging.pdb
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\Common.Logging.xml
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\Common.Logging.Core.pdb
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\Common.Logging.Core.xml
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\itext.barcodes.xml
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\itext.commons.xml
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\itext.forms.xml
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\itext.html2pdf.xml
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\itext.io.xml
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\itext.kernel.xml
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\itext.layout.xml
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\itext.licensekey.xml
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\itext.pdfa.xml
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\itext.sign.xml
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\itext.styledxmlparser.xml
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\itext.svg.xml
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\itextsharp.xml
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\System.Buffers.xml
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\System.Memory.xml
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Services\bin\Debug\System.ValueTuple.xml
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Services\obj\Debug\Services.csproj.AssemblyReference.cache
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Services\obj\Debug\Services.csproj.Up2Date
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Services\obj\Debug\Services.dll
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Services\obj\Debug\Services.pdb

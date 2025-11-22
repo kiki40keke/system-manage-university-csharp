@@ -1,0 +1,25 @@
+c:\users\kelly\documents\visual studio 2012\Projects\Uniclient\Interface\bin\Debug\Interface.dll
+c:\users\kelly\documents\visual studio 2012\Projects\Uniclient\Interface\bin\Debug\Interface.pdb
+c:\users\kelly\documents\visual studio 2012\Projects\Uniclient\Interface\obj\Debug\Interface.dll
+c:\users\kelly\documents\visual studio 2012\Projects\Uniclient\Interface\obj\Debug\Interface.pdb
+F:\Intense C#\Uniclient\Interface\bin\Debug\Interface.dll
+F:\Intense C#\Uniclient\Interface\bin\Debug\Interface.pdb
+F:\Intense C#\Uniclient\Interface\obj\Debug\Interface.dll
+F:\Intense C#\Uniclient\Interface\obj\Debug\Interface.pdb
+C:\Users\kelly\Music\GestionUNI\Uniclient\Interface\bin\Debug\Interface.dll
+C:\Users\kelly\Music\GestionUNI\Uniclient\Interface\bin\Debug\Interface.pdb
+C:\Users\kelly\Music\GestionUNI\Uniclient\Interface\obj\Debug\Interface.dll
+C:\Users\kelly\Music\GestionUNI\Uniclient\Interface\obj\Debug\Interface.pdb
+C:\Users\kelly\Music\GestionUNI\Uniclient\Interface\obj\Debug\Interface.csprojResolveAssemblyReference.cache
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Interface\bin\Debug\Interface.dll
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Interface\bin\Debug\Interface.pdb
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Interface\obj\Debug\Interface.csproj.AssemblyReference.cache
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Interface\obj\Debug\Interface.dll
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Interface\obj\Debug\Interface.pdb
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Interface\bin\Debug\Interface.dll
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Interface\bin\Debug\Interface.pdb
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Interface\obj\Debug\Interface.csproj.AssemblyReference.cache
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Interface\obj\Debug\Interface.dll
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Interface\obj\Debug\Interface.pdb

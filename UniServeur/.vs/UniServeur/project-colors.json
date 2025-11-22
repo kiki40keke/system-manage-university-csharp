@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1f40c394-3b12-44e1-9d5d-9d08a4dc7668": {
+      "ProjectGuid": "1f40c394-3b12-44e1-9d5d-9d08a4dc7668",
+      "DisplayName": "Dal",
+      "ColorIndex": 0
+    },
+    "8db91da1-6420-41a2-be75-10b115a708d1": {
+      "ProjectGuid": "8db91da1-6420-41a2-be75-10b115a708d1",
+      "DisplayName": "Controlleur",
+      "ColorIndex": 1
+    },
+    "47d78a8b-a3e9-47d0-b392-086b2e23e43f": {
+      "ProjectGuid": "47d78a8b-a3e9-47d0-b392-086b2e23e43f",
+      "DisplayName": "Interface",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

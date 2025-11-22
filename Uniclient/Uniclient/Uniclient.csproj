@@ -1,0 +1,374 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{AD600E39-7CAA-4B7B-9401-778387CE71A4}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Uniclient</RootNamespace>
+    <AssemblyName>Uniclient</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Remoting" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FenBloque.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FenBloque.Designer.cs">
+      <DependentUpon>FenBloque.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FenBulletin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FenBulletin.Designer.cs">
+      <DependentUpon>FenBulletin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Fendepot.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fendepot.Designer.cs">
+      <DependentUpon>Fendepot.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FenEnregistrement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FenEnregistrement.Designer.cs">
+      <DependentUpon>FenEnregistrement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FenEnregistrementEtudiant.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FenEnregistrementEtudiant.Designer.cs">
+      <DependentUpon>FenEnregistrementEtudiant.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FenEnregistrerUtilisateur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FenEnregistrerUtilisateur.Designer.cs">
+      <DependentUpon>FenEnregistrerUtilisateur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FenlisterAncienpaiement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FenlisterAncienpaiement.Designer.cs">
+      <DependentUpon>FenlisterAncienpaiement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FenListerEmployer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FenListerEmployer.Designer.cs">
+      <DependentUpon>FenListerEmployer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FenlisterEtudiant.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FenlisterEtudiant.Designer.cs">
+      <DependentUpon>FenlisterEtudiant.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FenlisterModaliterPaiement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FenlisterModaliterPaiement.Designer.cs">
+      <DependentUpon>FenlisterModaliterPaiement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FenlisterPalmaresDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FenlisterPalmaresDetails.Designer.cs">
+      <DependentUpon>FenlisterPalmaresDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FenListerPalmaresse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FenListerPalmaresse.Designer.cs">
+      <DependentUpon>FenListerPalmaresse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FenListerTransactions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FenListerTransactions.Designer.cs">
+      <DependentUpon>FenListerTransactions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FenListerUtilisateur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FenListerUtilisateur.Designer.cs">
+      <DependentUpon>FenListerUtilisateur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FenmodalitePaiement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FenmodalitePaiement.Designer.cs">
+      <DependentUpon>FenmodalitePaiement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FenProgessbar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FenProgessbar.Designer.cs">
+      <DependentUpon>FenProgessbar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FenrecherEtudiant.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FenrecherEtudiant.Designer.cs">
+      <DependentUpon>FenrecherEtudiant.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FenRecherUtilisateur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FenRecherUtilisateur.Designer.cs">
+      <DependentUpon>FenRecherUtilisateur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GestionCours.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GestionCours.Designer.cs">
+      <DependentUpon>GestionCours.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GestionEvaluation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GestionEvaluation.Designer.cs">
+      <DependentUpon>GestionEvaluation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GestionNotes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GestionNotes.Designer.cs">
+      <DependentUpon>GestionNotes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GestionPalmaresse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GestionPalmaresse.Designer.cs">
+      <DependentUpon>GestionPalmaresse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ListerProffesseur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ListerProffesseur.Designer.cs">
+      <DependentUpon>ListerProffesseur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu.Designer.cs">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SelectionCours.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SelectionCours.Designer.cs">
+      <DependentUpon>SelectionCours.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="FenBloque.resx">
+      <DependentUpon>FenBloque.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FenBulletin.resx">
+      <DependentUpon>FenBulletin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fendepot.resx">
+      <DependentUpon>Fendepot.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FenEnregistrement.resx">
+      <DependentUpon>FenEnregistrement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FenEnregistrementEtudiant.resx">
+      <DependentUpon>FenEnregistrementEtudiant.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FenEnregistrerUtilisateur.resx">
+      <DependentUpon>FenEnregistrerUtilisateur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FenlisterAncienpaiement.resx">
+      <DependentUpon>FenlisterAncienpaiement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FenListerEmployer.resx">
+      <DependentUpon>FenListerEmployer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FenlisterEtudiant.resx">
+      <DependentUpon>FenlisterEtudiant.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FenlisterModaliterPaiement.resx">
+      <DependentUpon>FenlisterModaliterPaiement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FenlisterPalmaresDetails.resx">
+      <DependentUpon>FenlisterPalmaresDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FenListerPalmaresse.resx">
+      <DependentUpon>FenListerPalmaresse.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FenListerTransactions.resx">
+      <DependentUpon>FenListerTransactions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FenListerUtilisateur.resx">
+      <DependentUpon>FenListerUtilisateur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FenmodalitePaiement.resx">
+      <DependentUpon>FenmodalitePaiement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FenProgessbar.resx">
+      <DependentUpon>FenProgessbar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FenrecherEtudiant.resx">
+      <DependentUpon>FenrecherEtudiant.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FenRecherUtilisateur.resx">
+      <DependentUpon>FenRecherUtilisateur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GestionCours.resx">
+      <DependentUpon>GestionCours.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GestionEvaluation.resx">
+      <DependentUpon>GestionEvaluation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GestionNotes.resx">
+      <DependentUpon>GestionNotes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GestionPalmaresse.resx">
+      <DependentUpon>GestionPalmaresse.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ListerProffesseur.resx">
+      <DependentUpon>ListerProffesseur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu.resx">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="SelectionCours.resx">
+      <DependentUpon>SelectionCours.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Interface\Interface.csproj">
+      <Project>{0dc31be6-302b-408f-b001-eaafa6085ce9}</Project>
+      <Name>Interface</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Services\Services.csproj">
+      <Project>{841521bd-5e98-4d91-bed1-a20595e97ff2}</Project>
+      <Name>Services</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\INTENSE1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\int.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Backward.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Backward~2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1175.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5001.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\save.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Windows_Live_Search_logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\photo-berkeley.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\photo-berkeley1.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

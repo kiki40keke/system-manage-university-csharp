@@ -1,0 +1,7 @@
+c:\users\kelly\documents\visual studio 2012\Projects\UniServeur\Application\bin\Debug\Application.dll
+c:\users\kelly\documents\visual studio 2012\Projects\UniServeur\Application\bin\Debug\Application.pdb
+c:\users\kelly\documents\visual studio 2012\Projects\UniServeur\Application\bin\Debug\Domaine.dll
+c:\users\kelly\documents\visual studio 2012\Projects\UniServeur\Application\bin\Debug\Domaine.pdb
+c:\users\kelly\documents\visual studio 2012\Projects\UniServeur\Application\obj\Debug\Application.csprojResolveAssemblyReference.cache
+c:\users\kelly\documents\visual studio 2012\Projects\UniServeur\Application\obj\Debug\Application.dll
+c:\users\kelly\documents\visual studio 2012\Projects\UniServeur\Application\obj\Debug\Application.pdb

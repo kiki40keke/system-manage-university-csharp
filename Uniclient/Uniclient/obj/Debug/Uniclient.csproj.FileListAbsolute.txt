@@ -1,0 +1,342 @@
+C:\Users\kelly\Documents\Uniclient\Uniclient\bin\Debug\Uniclient.exe.config
+C:\Users\kelly\Documents\Uniclient\Uniclient\obj\Debug\Uniclient.exe
+C:\Users\kelly\Documents\Uniclient\Uniclient\obj\Debug\Uniclient.pdb
+C:\Users\kelly\Documents\Uniclient\Uniclient\bin\Debug\Uniclient.exe
+C:\Users\kelly\Documents\Uniclient\Uniclient\bin\Debug\Uniclient.pdb
+C:\Users\kelly\Documents\Uniclient\Uniclient\bin\Debug\Interface.dll
+C:\Users\kelly\Documents\Uniclient\Uniclient\bin\Debug\Services.dll
+C:\Users\kelly\Documents\Uniclient\Uniclient\bin\Debug\Interface.pdb
+C:\Users\kelly\Documents\Uniclient\Uniclient\bin\Debug\Services.pdb
+C:\Users\kelly\Documents\Uniclient\Uniclient\obj\Debug\Uniclient.csprojResolveAssemblyReference.cache
+C:\Users\kelly\Documents\Uniclient\Uniclient\obj\Debug\Uniclient.FenBulletin.resources
+C:\Users\kelly\Documents\Uniclient\Uniclient\obj\Debug\Uniclient.Fendepot.resources
+C:\Users\kelly\Documents\Uniclient\Uniclient\obj\Debug\Uniclient.FenEnregistrement.resources
+C:\Users\kelly\Documents\Uniclient\Uniclient\obj\Debug\Uniclient.FenEnregistrementEtudiant.resources
+C:\Users\kelly\Documents\Uniclient\Uniclient\obj\Debug\Uniclient.FenEnregistrerUtilisateur.resources
+C:\Users\kelly\Documents\Uniclient\Uniclient\obj\Debug\Uniclient.FenlisterAncienpaiement.resources
+C:\Users\kelly\Documents\Uniclient\Uniclient\obj\Debug\Uniclient.FenListerEmployer.resources
+C:\Users\kelly\Documents\Uniclient\Uniclient\obj\Debug\Uniclient.FenlisterEtudiant.resources
+C:\Users\kelly\Documents\Uniclient\Uniclient\obj\Debug\Uniclient.FenlisterModaliterPaiement.resources
+C:\Users\kelly\Documents\Uniclient\Uniclient\obj\Debug\Uniclient.FenlisterPalmaresDetails.resources
+C:\Users\kelly\Documents\Uniclient\Uniclient\obj\Debug\Uniclient.FenListerPalmaresse.resources
+C:\Users\kelly\Documents\Uniclient\Uniclient\obj\Debug\Uniclient.FenListerTransactions.resources
+C:\Users\kelly\Documents\Uniclient\Uniclient\obj\Debug\Uniclient.FenListerUtilisateur.resources
+C:\Users\kelly\Documents\Uniclient\Uniclient\obj\Debug\Uniclient.FenmodalitePaiement.resources
+C:\Users\kelly\Documents\Uniclient\Uniclient\obj\Debug\Uniclient.FenrecherEtudiant.resources
+C:\Users\kelly\Documents\Uniclient\Uniclient\obj\Debug\Uniclient.FenRecherUtilisateur.resources
+C:\Users\kelly\Documents\Uniclient\Uniclient\obj\Debug\Uniclient.Form1.resources
+C:\Users\kelly\Documents\Uniclient\Uniclient\obj\Debug\Uniclient.GestionCours.resources
+C:\Users\kelly\Documents\Uniclient\Uniclient\obj\Debug\Uniclient.GestionEvaluation.resources
+C:\Users\kelly\Documents\Uniclient\Uniclient\obj\Debug\Uniclient.GestionNotes.resources
+C:\Users\kelly\Documents\Uniclient\Uniclient\obj\Debug\Uniclient.GestionPalmaresse.resources
+C:\Users\kelly\Documents\Uniclient\Uniclient\obj\Debug\Uniclient.ListerProffesseur.resources
+C:\Users\kelly\Documents\Uniclient\Uniclient\obj\Debug\Uniclient.Login.resources
+C:\Users\kelly\Documents\Uniclient\Uniclient\obj\Debug\Uniclient.Menu.resources
+C:\Users\kelly\Documents\Uniclient\Uniclient\obj\Debug\Uniclient.Properties.Resources.resources
+C:\Users\kelly\Documents\Uniclient\Uniclient\obj\Debug\Uniclient.SelectionCours.resources
+C:\Users\kelly\Documents\Uniclient\Uniclient\obj\Debug\Uniclient.csproj.GenerateResource.Cache
+C:\Users\kelly\Music\GestionUNI\Uniclient\Uniclient\bin\Debug\Uniclient.exe.config
+C:\Users\kelly\Music\GestionUNI\Uniclient\Uniclient\obj\Debug\Uniclient.exe
+C:\Users\kelly\Music\GestionUNI\Uniclient\Uniclient\obj\Debug\Uniclient.pdb
+C:\Users\kelly\Music\GestionUNI\Uniclient\Uniclient\bin\Debug\Uniclient.exe
+C:\Users\kelly\Music\GestionUNI\Uniclient\Uniclient\bin\Debug\Uniclient.pdb
+C:\Users\kelly\Music\GestionUNI\Uniclient\Uniclient\bin\Debug\Interface.dll
+C:\Users\kelly\Music\GestionUNI\Uniclient\Uniclient\bin\Debug\Services.dll
+C:\Users\kelly\Music\GestionUNI\Uniclient\Uniclient\bin\Debug\Interface.pdb
+C:\Users\kelly\Music\GestionUNI\Uniclient\Uniclient\bin\Debug\Services.pdb
+C:\Users\kelly\Music\GestionUNI\Uniclient\Uniclient\obj\Debug\Uniclient.csprojResolveAssemblyReference.cache
+C:\Users\kelly\Music\GestionUNI\Uniclient\Uniclient\obj\Debug\Uniclient.FenBulletin.resources
+C:\Users\kelly\Music\GestionUNI\Uniclient\Uniclient\obj\Debug\Uniclient.Fendepot.resources
+C:\Users\kelly\Music\GestionUNI\Uniclient\Uniclient\obj\Debug\Uniclient.FenEnregistrement.resources
+C:\Users\kelly\Music\GestionUNI\Uniclient\Uniclient\obj\Debug\Uniclient.FenEnregistrementEtudiant.resources
+C:\Users\kelly\Music\GestionUNI\Uniclient\Uniclient\obj\Debug\Uniclient.FenEnregistrerUtilisateur.resources
+C:\Users\kelly\Music\GestionUNI\Uniclient\Uniclient\obj\Debug\Uniclient.FenlisterAncienpaiement.resources
+C:\Users\kelly\Music\GestionUNI\Uniclient\Uniclient\obj\Debug\Uniclient.FenListerEmployer.resources
+C:\Users\kelly\Music\GestionUNI\Uniclient\Uniclient\obj\Debug\Uniclient.FenlisterEtudiant.resources
+C:\Users\kelly\Music\GestionUNI\Uniclient\Uniclient\obj\Debug\Uniclient.FenlisterModaliterPaiement.resources
+C:\Users\kelly\Music\GestionUNI\Uniclient\Uniclient\obj\Debug\Uniclient.FenlisterPalmaresDetails.resources
+C:\Users\kelly\Music\GestionUNI\Uniclient\Uniclient\obj\Debug\Uniclient.FenListerPalmaresse.resources
+C:\Users\kelly\Music\GestionUNI\Uniclient\Uniclient\obj\Debug\Uniclient.FenListerTransactions.resources
+C:\Users\kelly\Music\GestionUNI\Uniclient\Uniclient\obj\Debug\Uniclient.FenListerUtilisateur.resources
+C:\Users\kelly\Music\GestionUNI\Uniclient\Uniclient\obj\Debug\Uniclient.FenmodalitePaiement.resources
+C:\Users\kelly\Music\GestionUNI\Uniclient\Uniclient\obj\Debug\Uniclient.FenrecherEtudiant.resources
+C:\Users\kelly\Music\GestionUNI\Uniclient\Uniclient\obj\Debug\Uniclient.FenRecherUtilisateur.resources
+C:\Users\kelly\Music\GestionUNI\Uniclient\Uniclient\obj\Debug\Uniclient.Form1.resources
+C:\Users\kelly\Music\GestionUNI\Uniclient\Uniclient\obj\Debug\Uniclient.GestionCours.resources
+C:\Users\kelly\Music\GestionUNI\Uniclient\Uniclient\obj\Debug\Uniclient.GestionEvaluation.resources
+C:\Users\kelly\Music\GestionUNI\Uniclient\Uniclient\obj\Debug\Uniclient.GestionNotes.resources
+C:\Users\kelly\Music\GestionUNI\Uniclient\Uniclient\obj\Debug\Uniclient.GestionPalmaresse.resources
+C:\Users\kelly\Music\GestionUNI\Uniclient\Uniclient\obj\Debug\Uniclient.ListerProffesseur.resources
+C:\Users\kelly\Music\GestionUNI\Uniclient\Uniclient\obj\Debug\Uniclient.Login.resources
+C:\Users\kelly\Music\GestionUNI\Uniclient\Uniclient\obj\Debug\Uniclient.Menu.resources
+C:\Users\kelly\Music\GestionUNI\Uniclient\Uniclient\obj\Debug\Uniclient.Properties.Resources.resources
+C:\Users\kelly\Music\GestionUNI\Uniclient\Uniclient\obj\Debug\Uniclient.SelectionCours.resources
+C:\Users\kelly\Music\GestionUNI\Uniclient\Uniclient\obj\Debug\Uniclient.csproj.GenerateResource.Cache
+C:\Users\kelly\Music\GestionUNI\Uniclient\Uniclient\obj\Debug\Uniclient.FenProgessbar.resources
+C:\Users\kelly\Music\GestionUNI\Uniclient\Uniclient\obj\Debug\Uniclient.FenBloque.resources
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Uniclient\bin\Debug\Uniclient.exe.config
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Uniclient\bin\Debug\Uniclient.exe
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Uniclient\bin\Debug\Uniclient.pdb
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Uniclient\bin\Debug\Interface.dll
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Uniclient\bin\Debug\Services.dll
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Uniclient\bin\Debug\Interface.pdb
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Uniclient\bin\Debug\Services.pdb
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Uniclient\obj\Debug\Uniclient.csproj.AssemblyReference.cache
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Uniclient\obj\Debug\Uniclient.FenBloque.resources
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Uniclient\obj\Debug\Uniclient.FenBulletin.resources
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Uniclient\obj\Debug\Uniclient.Fendepot.resources
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Uniclient\obj\Debug\Uniclient.FenEnregistrement.resources
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Uniclient\obj\Debug\Uniclient.FenEnregistrementEtudiant.resources
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Uniclient\obj\Debug\Uniclient.FenEnregistrerUtilisateur.resources
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Uniclient\obj\Debug\Uniclient.FenlisterAncienpaiement.resources
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Uniclient\obj\Debug\Uniclient.FenListerEmployer.resources
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Uniclient\obj\Debug\Uniclient.FenlisterEtudiant.resources
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Uniclient\obj\Debug\Uniclient.FenlisterModaliterPaiement.resources
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Uniclient\obj\Debug\Uniclient.FenlisterPalmaresDetails.resources
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Uniclient\obj\Debug\Uniclient.FenListerPalmaresse.resources
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Uniclient\obj\Debug\Uniclient.FenListerTransactions.resources
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Uniclient\obj\Debug\Uniclient.FenListerUtilisateur.resources
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Uniclient\obj\Debug\Uniclient.FenmodalitePaiement.resources
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Uniclient\obj\Debug\Uniclient.FenProgessbar.resources
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Uniclient\obj\Debug\Uniclient.FenrecherEtudiant.resources
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Uniclient\obj\Debug\Uniclient.FenRecherUtilisateur.resources
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Uniclient\obj\Debug\Uniclient.Form1.resources
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Uniclient\obj\Debug\Uniclient.GestionCours.resources
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Uniclient\obj\Debug\Uniclient.GestionEvaluation.resources
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Uniclient\obj\Debug\Uniclient.GestionNotes.resources
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Uniclient\obj\Debug\Uniclient.GestionPalmaresse.resources
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Uniclient\obj\Debug\Uniclient.ListerProffesseur.resources
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Uniclient\obj\Debug\Uniclient.Login.resources
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Uniclient\obj\Debug\Uniclient.Menu.resources
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Uniclient\obj\Debug\Uniclient.Properties.Resources.resources
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Uniclient\obj\Debug\Uniclient.SelectionCours.resources
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Uniclient\obj\Debug\Uniclient.csproj.GenerateResource.cache
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Uniclient\obj\Debug\Uniclient.csproj.CoreCompileInputs.cache
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Uniclient\obj\Debug\Uniclient.csproj.CopyComplete
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Uniclient\obj\Debug\Uniclient.exe
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Uniclient\obj\Debug\Uniclient.pdb
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Uniclient\bin\Debug\Services.dll.config
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Uniclient\obj\Debug\Uniclient.csproj.SuggestedBindingRedirects.cache
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Uniclient\bin\Debug\itext.html2pdf.dll
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Uniclient\bin\Debug\itext.styledxmlparser.dll
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Uniclient\bin\Debug\itext.layout.dll
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Uniclient\bin\Debug\itext.commons.dll
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Uniclient\bin\Debug\itext.kernel.dll
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Uniclient\bin\Debug\itext.svg.dll
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Uniclient\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Uniclient\bin\Debug\itext.io.dll
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Uniclient\bin\Debug\itext.forms.dll
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Uniclient\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Uniclient\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Uniclient\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Uniclient\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Uniclient\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Uniclient\bin\Debug\System.ValueTuple.dll
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Uniclient\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Uniclient\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Uniclient\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Uniclient\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Uniclient\bin\Debug\System.Memory.dll
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Uniclient\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Uniclient\bin\Debug\System.Buffers.dll
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Uniclient\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Uniclient\bin\Debug\itext.html2pdf.xml
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Uniclient\bin\Debug\itext.styledxmlparser.xml
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Uniclient\bin\Debug\itext.layout.xml
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Uniclient\bin\Debug\itext.commons.xml
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Uniclient\bin\Debug\itext.kernel.xml
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Uniclient\bin\Debug\itext.svg.xml
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Uniclient\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Uniclient\bin\Debug\itext.io.xml
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Uniclient\bin\Debug\itext.forms.xml
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Uniclient\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Uniclient\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Uniclient\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Uniclient\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Uniclient\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Uniclient\bin\Debug\System.ValueTuple.xml
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Uniclient\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Uniclient\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Uniclient\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Uniclient\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Uniclient\bin\Debug\System.Memory.xml
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Uniclient\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Uniclient\bin\Debug\System.Buffers.xml
+C:\Users\kelly\source\repos\C# Intense Fini\Uniclient\Uniclient\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Uniclient\bin\Debug\Uniclient.exe.config
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Uniclient\bin\Debug\Uniclient.exe
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Uniclient\bin\Debug\Uniclient.pdb
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Uniclient\bin\Debug\Interface.dll
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Uniclient\bin\Debug\Services.dll
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Uniclient\bin\Debug\itext.html2pdf.dll
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Uniclient\bin\Debug\itext.styledxmlparser.dll
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Uniclient\bin\Debug\itext.layout.dll
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Uniclient\bin\Debug\itext.commons.dll
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Uniclient\bin\Debug\itext.kernel.dll
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Uniclient\bin\Debug\itext.svg.dll
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Uniclient\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Uniclient\bin\Debug\itext.io.dll
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Uniclient\bin\Debug\itext.forms.dll
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Uniclient\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Uniclient\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Uniclient\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Uniclient\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Uniclient\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Uniclient\bin\Debug\System.ValueTuple.dll
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Uniclient\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Uniclient\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Uniclient\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Uniclient\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Uniclient\bin\Debug\System.Memory.dll
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Uniclient\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Uniclient\bin\Debug\System.Buffers.dll
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Uniclient\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Uniclient\bin\Debug\Interface.pdb
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Uniclient\bin\Debug\Services.pdb
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Uniclient\bin\Debug\Services.dll.config
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Uniclient\bin\Debug\itext.html2pdf.xml
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Uniclient\bin\Debug\itext.styledxmlparser.xml
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Uniclient\bin\Debug\itext.layout.xml
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Uniclient\bin\Debug\itext.commons.xml
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Uniclient\bin\Debug\itext.kernel.xml
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Uniclient\bin\Debug\itext.svg.xml
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Uniclient\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Uniclient\bin\Debug\itext.io.xml
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Uniclient\bin\Debug\itext.forms.xml
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Uniclient\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Uniclient\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Uniclient\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Uniclient\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Uniclient\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Uniclient\bin\Debug\System.ValueTuple.xml
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Uniclient\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Uniclient\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Uniclient\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Uniclient\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Uniclient\bin\Debug\System.Memory.xml
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Uniclient\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Uniclient\bin\Debug\System.Buffers.xml
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Uniclient\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Uniclient\obj\Debug\Uniclient.csproj.AssemblyReference.cache
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Uniclient\obj\Debug\Uniclient.csproj.SuggestedBindingRedirects.cache
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Uniclient\obj\Debug\Uniclient.FenBloque.resources
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Uniclient\obj\Debug\Uniclient.FenBulletin.resources
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Uniclient\obj\Debug\Uniclient.Fendepot.resources
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Uniclient\obj\Debug\Uniclient.FenEnregistrement.resources
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Uniclient\obj\Debug\Uniclient.FenEnregistrementEtudiant.resources
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Uniclient\obj\Debug\Uniclient.FenEnregistrerUtilisateur.resources
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Uniclient\obj\Debug\Uniclient.FenlisterAncienpaiement.resources
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Uniclient\obj\Debug\Uniclient.FenListerEmployer.resources
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Uniclient\obj\Debug\Uniclient.FenlisterEtudiant.resources
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Uniclient\obj\Debug\Uniclient.FenlisterModaliterPaiement.resources
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Uniclient\obj\Debug\Uniclient.FenlisterPalmaresDetails.resources
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Uniclient\obj\Debug\Uniclient.FenListerPalmaresse.resources
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Uniclient\obj\Debug\Uniclient.FenListerTransactions.resources
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Uniclient\obj\Debug\Uniclient.FenListerUtilisateur.resources
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Uniclient\obj\Debug\Uniclient.FenmodalitePaiement.resources
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Uniclient\obj\Debug\Uniclient.FenProgessbar.resources
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Uniclient\obj\Debug\Uniclient.FenrecherEtudiant.resources
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Uniclient\obj\Debug\Uniclient.FenRecherUtilisateur.resources
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Uniclient\obj\Debug\Uniclient.Form1.resources
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Uniclient\obj\Debug\Uniclient.GestionCours.resources
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Uniclient\obj\Debug\Uniclient.GestionEvaluation.resources
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Uniclient\obj\Debug\Uniclient.GestionNotes.resources
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Uniclient\obj\Debug\Uniclient.GestionPalmaresse.resources
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Uniclient\obj\Debug\Uniclient.ListerProffesseur.resources
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Uniclient\obj\Debug\Uniclient.Login.resources
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Uniclient\obj\Debug\Uniclient.Menu.resources
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Uniclient\obj\Debug\Uniclient.Properties.Resources.resources
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Uniclient\obj\Debug\Uniclient.SelectionCours.resources
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Uniclient\obj\Debug\Uniclient.csproj.GenerateResource.cache
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Uniclient\obj\Debug\Uniclient.csproj.CoreCompileInputs.cache
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Uniclient\obj\Debug\Uniclient.csproj.CopyComplete
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Uniclient\obj\Debug\Uniclient.exe
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\Uniclient\Uniclient\obj\Debug\Uniclient.pdb
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Uniclient\bin\Debug\Uniclient.exe.config
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Uniclient\bin\Debug\Uniclient.exe
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Uniclient\bin\Debug\Uniclient.pdb
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Uniclient\bin\Debug\Interface.dll
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Uniclient\bin\Debug\Services.dll
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Uniclient\bin\Debug\itext.kernel.dll
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Uniclient\bin\Debug\itext.html2pdf.dll
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Uniclient\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Uniclient\bin\Debug\itext.commons.dll
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Uniclient\bin\Debug\itext.io.dll
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Uniclient\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Uniclient\bin\Debug\itext.styledxmlparser.dll
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Uniclient\bin\Debug\itext.layout.dll
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Uniclient\bin\Debug\itext.svg.dll
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Uniclient\bin\Debug\itext.forms.dll
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Uniclient\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Uniclient\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Uniclient\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Uniclient\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Uniclient\bin\Debug\System.ValueTuple.dll
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Uniclient\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Uniclient\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Uniclient\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Uniclient\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Uniclient\bin\Debug\System.Memory.dll
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Uniclient\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Uniclient\bin\Debug\System.Buffers.dll
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Uniclient\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Uniclient\bin\Debug\Interface.pdb
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Uniclient\bin\Debug\Services.pdb
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Uniclient\bin\Debug\Services.dll.config
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Uniclient\bin\Debug\itext.kernel.xml
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Uniclient\bin\Debug\itext.html2pdf.xml
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Uniclient\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Uniclient\bin\Debug\itext.commons.xml
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Uniclient\bin\Debug\itext.io.xml
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Uniclient\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Uniclient\bin\Debug\itext.styledxmlparser.xml
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Uniclient\bin\Debug\itext.layout.xml
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Uniclient\bin\Debug\itext.svg.xml
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Uniclient\bin\Debug\itext.forms.xml
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Uniclient\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Uniclient\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Uniclient\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Uniclient\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Uniclient\bin\Debug\System.ValueTuple.xml
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Uniclient\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Uniclient\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Uniclient\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Uniclient\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Uniclient\bin\Debug\System.Memory.xml
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Uniclient\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Uniclient\bin\Debug\System.Buffers.xml
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Uniclient\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Uniclient\obj\Debug\Uniclient.csproj.AssemblyReference.cache
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Uniclient\obj\Debug\Uniclient.FenBloque.resources
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Uniclient\obj\Debug\Uniclient.FenBulletin.resources
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Uniclient\obj\Debug\Uniclient.Fendepot.resources
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Uniclient\obj\Debug\Uniclient.FenEnregistrement.resources
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Uniclient\obj\Debug\Uniclient.FenEnregistrementEtudiant.resources
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Uniclient\obj\Debug\Uniclient.FenEnregistrerUtilisateur.resources
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Uniclient\obj\Debug\Uniclient.FenlisterAncienpaiement.resources
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Uniclient\obj\Debug\Uniclient.FenListerEmployer.resources
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Uniclient\obj\Debug\Uniclient.FenlisterEtudiant.resources
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Uniclient\obj\Debug\Uniclient.FenlisterModaliterPaiement.resources
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Uniclient\obj\Debug\Uniclient.FenlisterPalmaresDetails.resources
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Uniclient\obj\Debug\Uniclient.FenListerPalmaresse.resources
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Uniclient\obj\Debug\Uniclient.FenListerTransactions.resources
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Uniclient\obj\Debug\Uniclient.FenListerUtilisateur.resources
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Uniclient\obj\Debug\Uniclient.FenmodalitePaiement.resources
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Uniclient\obj\Debug\Uniclient.FenProgessbar.resources
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Uniclient\obj\Debug\Uniclient.FenrecherEtudiant.resources
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Uniclient\obj\Debug\Uniclient.FenRecherUtilisateur.resources
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Uniclient\obj\Debug\Uniclient.Form1.resources
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Uniclient\obj\Debug\Uniclient.GestionCours.resources
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Uniclient\obj\Debug\Uniclient.GestionEvaluation.resources
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Uniclient\obj\Debug\Uniclient.GestionNotes.resources
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Uniclient\obj\Debug\Uniclient.GestionPalmaresse.resources
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Uniclient\obj\Debug\Uniclient.ListerProffesseur.resources
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Uniclient\obj\Debug\Uniclient.Login.resources
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Uniclient\obj\Debug\Uniclient.Menu.resources
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Uniclient\obj\Debug\Uniclient.Properties.Resources.resources
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Uniclient\obj\Debug\Uniclient.SelectionCours.resources
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Uniclient\obj\Debug\Uniclient.csproj.GenerateResource.cache
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Uniclient\obj\Debug\Uniclient.csproj.CoreCompileInputs.cache
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Uniclient\obj\Debug\Uniclient.csproj.Up2Date
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Uniclient\obj\Debug\Uniclient.exe
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\Uniclient\Uniclient\obj\Debug\Uniclient.pdb

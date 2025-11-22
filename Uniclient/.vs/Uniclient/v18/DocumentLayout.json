@@ -1,0 +1,256 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kensky\\Documents\\Projet Groupe Intense C#\\Uniclient\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD600E39-7CAA-4B7B-9401-778387CE71A4}|Uniclient\\Uniclient.csproj|C:\\Users\\Kensky\\Documents\\Projet Groupe Intense C#\\Uniclient\\uniclient\\gestionpalmaresse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD600E39-7CAA-4B7B-9401-778387CE71A4}|Uniclient\\Uniclient.csproj|solutionrelative:uniclient\\gestionpalmaresse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD600E39-7CAA-4B7B-9401-778387CE71A4}|Uniclient\\Uniclient.csproj|c:\\users\\kensky\\documents\\projet groupe intense c#\\uniclient\\uniclient\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD600E39-7CAA-4B7B-9401-778387CE71A4}|Uniclient\\Uniclient.csproj|solutionrelative:uniclient\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD600E39-7CAA-4B7B-9401-778387CE71A4}|Uniclient\\Uniclient.csproj|C:\\Users\\Kensky\\Documents\\Projet Groupe Intense C#\\Uniclient\\uniclient\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD600E39-7CAA-4B7B-9401-778387CE71A4}|Uniclient\\Uniclient.csproj|solutionrelative:uniclient\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD600E39-7CAA-4B7B-9401-778387CE71A4}|Uniclient\\Uniclient.csproj|C:\\Users\\Kensky\\Documents\\Projet Groupe Intense C#\\Uniclient\\uniclient\\fenenregistrementetudiant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD600E39-7CAA-4B7B-9401-778387CE71A4}|Uniclient\\Uniclient.csproj|solutionrelative:uniclient\\fenenregistrementetudiant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD600E39-7CAA-4B7B-9401-778387CE71A4}|Uniclient\\Uniclient.csproj|C:\\Users\\Kensky\\Documents\\Projet Groupe Intense C#\\Uniclient\\uniclient\\fenenregistrementetudiant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD600E39-7CAA-4B7B-9401-778387CE71A4}|Uniclient\\Uniclient.csproj|solutionrelative:uniclient\\fenenregistrementetudiant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD600E39-7CAA-4B7B-9401-778387CE71A4}|Uniclient\\Uniclient.csproj|C:\\Users\\Kensky\\Documents\\Projet Groupe Intense C#\\Uniclient\\uniclient\\fenbulletin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD600E39-7CAA-4B7B-9401-778387CE71A4}|Uniclient\\Uniclient.csproj|solutionrelative:uniclient\\fenbulletin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD600E39-7CAA-4B7B-9401-778387CE71A4}|Uniclient\\Uniclient.csproj|C:\\Users\\Kensky\\Documents\\Projet Groupe Intense C#\\Uniclient\\uniclient\\gestionnotes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD600E39-7CAA-4B7B-9401-778387CE71A4}|Uniclient\\Uniclient.csproj|solutionrelative:uniclient\\gestionnotes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD600E39-7CAA-4B7B-9401-778387CE71A4}|Uniclient\\Uniclient.csproj|C:\\Users\\Kensky\\Documents\\Projet Groupe Intense C#\\Uniclient\\uniclient\\gestionnotes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD600E39-7CAA-4B7B-9401-778387CE71A4}|Uniclient\\Uniclient.csproj|solutionrelative:uniclient\\gestionnotes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD600E39-7CAA-4B7B-9401-778387CE71A4}|Uniclient\\Uniclient.csproj|C:\\Users\\Kensky\\Documents\\Projet Groupe Intense C#\\Uniclient\\uniclient\\fenlisterpalmaresdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD600E39-7CAA-4B7B-9401-778387CE71A4}|Uniclient\\Uniclient.csproj|solutionrelative:uniclient\\fenlisterpalmaresdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD600E39-7CAA-4B7B-9401-778387CE71A4}|Uniclient\\Uniclient.csproj|C:\\Users\\Kensky\\Documents\\Projet Groupe Intense C#\\Uniclient\\uniclient\\fenlisterpalmaresdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD600E39-7CAA-4B7B-9401-778387CE71A4}|Uniclient\\Uniclient.csproj|solutionrelative:uniclient\\fenlisterpalmaresdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD600E39-7CAA-4B7B-9401-778387CE71A4}|Uniclient\\Uniclient.csproj|C:\\Users\\Kensky\\Documents\\Projet Groupe Intense C#\\Uniclient\\uniclient\\gestionpalmaresse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD600E39-7CAA-4B7B-9401-778387CE71A4}|Uniclient\\Uniclient.csproj|solutionrelative:uniclient\\gestionpalmaresse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD600E39-7CAA-4B7B-9401-778387CE71A4}|Uniclient\\Uniclient.csproj|C:\\Users\\Kensky\\Documents\\Projet Groupe Intense C#\\Uniclient\\uniclient\\fenbulletin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD600E39-7CAA-4B7B-9401-778387CE71A4}|Uniclient\\Uniclient.csproj|solutionrelative:uniclient\\fenbulletin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841521BD-5E98-4D91-BED1-A20595E97FF2}|Services\\Services.csproj|C:\\Users\\Kensky\\Documents\\Projet Groupe Intense C#\\Uniclient\\services\\createpdf2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841521BD-5E98-4D91-BED1-A20595E97FF2}|Services\\Services.csproj|solutionrelative:services\\createpdf2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD600E39-7CAA-4B7B-9401-778387CE71A4}|Uniclient\\Uniclient.csproj|C:\\Users\\Kensky\\Documents\\Projet Groupe Intense C#\\Uniclient\\uniclient\\fenenregistrement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD600E39-7CAA-4B7B-9401-778387CE71A4}|Uniclient\\Uniclient.csproj|solutionrelative:uniclient\\fenenregistrement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD600E39-7CAA-4B7B-9401-778387CE71A4}|Uniclient\\Uniclient.csproj|C:\\Users\\Kensky\\Documents\\Projet Groupe Intense C#\\Uniclient\\uniclient\\fenenregistrement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD600E39-7CAA-4B7B-9401-778387CE71A4}|Uniclient\\Uniclient.csproj|solutionrelative:uniclient\\fenenregistrement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FenEnregistrementEtudiant.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Kensky\\Documents\\Projet Groupe Intense C#\\Uniclient\\Uniclient\\FenEnregistrementEtudiant.cs",
+              "RelativeDocumentMoniker": "Uniclient\\FenEnregistrementEtudiant.cs",
+              "ToolTip": "C:\\Users\\kelly\\source\\repos\\Projet Groupe Intense C#\\Uniclient\\Uniclient\\FenEnregistrementEtudiant.cs [Design]*",
+              "RelativeToolTip": "..\\..\\..\\..\\kelly\\source\\repos\\Projet Groupe Intense C#\\Uniclient\\Uniclient\\FenEnregistrementEtudiant.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-22T07:36:04.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Kensky\\Documents\\Projet Groupe Intense C#\\Uniclient\\Uniclient\\Login.cs",
+              "RelativeDocumentMoniker": "Uniclient\\Login.cs",
+              "ToolTip": "C:\\Users\\Kensky\\Documents\\Projet Groupe Intense C#\\Uniclient\\Uniclient\\Login.cs",
+              "RelativeToolTip": "Uniclient\\Login.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAAAJgAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T07:36:04.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Kensky\\Documents\\Projet Groupe Intense C#\\Uniclient\\Uniclient\\Login.cs",
+              "RelativeDocumentMoniker": "Uniclient\\Login.cs",
+              "ToolTip": "C:\\Users\\kelly\\source\\repos\\Projet Groupe Intense C#\\Uniclient\\Uniclient\\Login.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\kelly\\source\\repos\\Projet Groupe Intense C#\\Uniclient\\Uniclient\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-22T07:36:04.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GestionNotes.cs",
+              "DocumentMoniker": "C:\\Users\\Kensky\\Documents\\Projet Groupe Intense C#\\Uniclient\\Uniclient\\GestionNotes.cs",
+              "RelativeDocumentMoniker": "Uniclient\\GestionNotes.cs",
+              "ToolTip": "C:\\Users\\Kensky\\Documents\\Projet Groupe Intense C#\\Uniclient\\Uniclient\\GestionNotes.cs",
+              "RelativeToolTip": "Uniclient\\GestionNotes.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAE0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-22T07:36:04.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GestionPalmaresse.cs",
+              "DocumentMoniker": "C:\\Users\\Kensky\\Documents\\Projet Groupe Intense C#\\Uniclient\\Uniclient\\GestionPalmaresse.cs",
+              "RelativeDocumentMoniker": "Uniclient\\GestionPalmaresse.cs",
+              "ToolTip": "C:\\Users\\Kensky\\Documents\\Projet Groupe Intense C#\\Uniclient\\Uniclient\\GestionPalmaresse.cs",
+              "RelativeToolTip": "Uniclient\\GestionPalmaresse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T07:36:04.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FenEnregistrementEtudiant.cs",
+              "DocumentMoniker": "C:\\Users\\Kensky\\Documents\\Projet Groupe Intense C#\\Uniclient\\Uniclient\\FenEnregistrementEtudiant.cs",
+              "RelativeDocumentMoniker": "Uniclient\\FenEnregistrementEtudiant.cs",
+              "ToolTip": "C:\\Users\\Kensky\\Documents\\Projet Groupe Intense C#\\Uniclient\\Uniclient\\FenEnregistrementEtudiant.cs",
+              "RelativeToolTip": "Uniclient\\FenEnregistrementEtudiant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-22T07:36:04.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GestionNotes.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Kensky\\Documents\\Projet Groupe Intense C#\\Uniclient\\Uniclient\\GestionNotes.cs",
+              "RelativeDocumentMoniker": "Uniclient\\GestionNotes.cs",
+              "ToolTip": "C:\\Users\\kelly\\source\\repos\\Projet Groupe Intense C#\\Uniclient\\Uniclient\\GestionNotes.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\kelly\\source\\repos\\Projet Groupe Intense C#\\Uniclient\\Uniclient\\GestionNotes.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-22T07:36:04.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FenlisterPalmaresDetails.cs",
+              "DocumentMoniker": "C:\\Users\\Kensky\\Documents\\Projet Groupe Intense C#\\Uniclient\\Uniclient\\FenlisterPalmaresDetails.cs",
+              "RelativeDocumentMoniker": "Uniclient\\FenlisterPalmaresDetails.cs",
+              "ToolTip": "C:\\Users\\Kensky\\Documents\\Projet Groupe Intense C#\\Uniclient\\Uniclient\\FenlisterPalmaresDetails.cs",
+              "RelativeToolTip": "Uniclient\\FenlisterPalmaresDetails.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAF0AAADWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-22T07:36:04.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FenlisterPalmaresDetails.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Kensky\\Documents\\Projet Groupe Intense C#\\Uniclient\\Uniclient\\FenlisterPalmaresDetails.cs",
+              "RelativeDocumentMoniker": "Uniclient\\FenlisterPalmaresDetails.cs",
+              "ToolTip": "C:\\Users\\kelly\\source\\repos\\Projet Groupe Intense C#\\Uniclient\\Uniclient\\FenlisterPalmaresDetails.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\kelly\\source\\repos\\Projet Groupe Intense C#\\Uniclient\\Uniclient\\FenlisterPalmaresDetails.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-22T07:36:04.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GestionPalmaresse.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Kensky\\Documents\\Projet Groupe Intense C#\\Uniclient\\Uniclient\\GestionPalmaresse.cs",
+              "RelativeDocumentMoniker": "Uniclient\\GestionPalmaresse.cs",
+              "ToolTip": "C:\\Users\\Kensky\\Documents\\Projet Groupe Intense C#\\Uniclient\\Uniclient\\GestionPalmaresse.cs [Design]",
+              "RelativeToolTip": "Uniclient\\GestionPalmaresse.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T07:36:04.652Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FenBulletin.cs",
+              "DocumentMoniker": "C:\\Users\\Kensky\\Documents\\Projet Groupe Intense C#\\Uniclient\\Uniclient\\FenBulletin.cs",
+              "RelativeDocumentMoniker": "Uniclient\\FenBulletin.cs",
+              "ToolTip": "C:\\Users\\Kensky\\Documents\\Projet Groupe Intense C#\\Uniclient\\Uniclient\\FenBulletin.cs",
+              "RelativeToolTip": "Uniclient\\FenBulletin.cs",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAuwI8AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-22T07:36:04.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FenBulletin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Kensky\\Documents\\Projet Groupe Intense C#\\Uniclient\\Uniclient\\FenBulletin.cs",
+              "RelativeDocumentMoniker": "Uniclient\\FenBulletin.cs",
+              "ToolTip": "C:\\Users\\kelly\\source\\repos\\Projet Groupe Intense C#\\Uniclient\\Uniclient\\FenBulletin.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\kelly\\source\\repos\\Projet Groupe Intense C#\\Uniclient\\Uniclient\\FenBulletin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-22T07:36:04.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CreatePdf2.cs",
+              "DocumentMoniker": "C:\\Users\\Kensky\\Documents\\Projet Groupe Intense C#\\Uniclient\\Services\\CreatePdf2.cs",
+              "RelativeDocumentMoniker": "Services\\CreatePdf2.cs",
+              "ToolTip": "C:\\Users\\Kensky\\Documents\\Projet Groupe Intense C#\\Uniclient\\Services\\CreatePdf2.cs",
+              "RelativeToolTip": "Services\\CreatePdf2.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAABMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T07:36:04.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FenEnregistrement.cs",
+              "DocumentMoniker": "C:\\Users\\Kensky\\Documents\\Projet Groupe Intense C#\\Uniclient\\Uniclient\\FenEnregistrement.cs",
+              "RelativeDocumentMoniker": "Uniclient\\FenEnregistrement.cs",
+              "ToolTip": "C:\\Users\\Kensky\\Documents\\Projet Groupe Intense C#\\Uniclient\\Uniclient\\FenEnregistrement.cs",
+              "RelativeToolTip": "Uniclient\\FenEnregistrement.cs",
+              "ViewState": "AQIAANAAAAAAAAAAAAAAAOYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-22T07:36:04.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FenEnregistrement.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Kensky\\Documents\\Projet Groupe Intense C#\\Uniclient\\Uniclient\\FenEnregistrement.cs",
+              "RelativeDocumentMoniker": "Uniclient\\FenEnregistrement.cs",
+              "ToolTip": "C:\\Users\\kelly\\source\\repos\\Projet Groupe Intense C#\\Uniclient\\Uniclient\\FenEnregistrement.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\kelly\\source\\repos\\Projet Groupe Intense C#\\Uniclient\\Uniclient\\FenEnregistrement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-22T07:36:04.658Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+C:\Users\kelly\Documents\Visual Studio 2012\Projects\UniServeur\Interface\bin\Debug\Interface.dll
+C:\Users\kelly\Documents\Visual Studio 2012\Projects\UniServeur\Interface\bin\Debug\Interface.pdb
+C:\Users\kelly\Documents\Visual Studio 2012\Projects\UniServeur\Interface\obj\Debug\Interface.dll
+C:\Users\kelly\Documents\Visual Studio 2012\Projects\UniServeur\Interface\obj\Debug\Interface.pdb
+C:\Users\kelly\Documents\Visual Studio 2012\Projects\UniServeur\Interface\obj\Debug\Interface.csprojResolveAssemblyReference.cache
+C:\Users\kelly\source\repos\C# Intense Fini\UniServeur\Interface\bin\Debug\Interface.dll
+C:\Users\kelly\source\repos\C# Intense Fini\UniServeur\Interface\bin\Debug\Interface.pdb
+C:\Users\kelly\source\repos\C# Intense Fini\UniServeur\Interface\obj\Debug\Interface.csproj.AssemblyReference.cache
+C:\Users\kelly\source\repos\C# Intense Fini\UniServeur\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+C:\Users\kelly\source\repos\C# Intense Fini\UniServeur\Interface\obj\Debug\Interface.dll
+C:\Users\kelly\source\repos\C# Intense Fini\UniServeur\Interface\obj\Debug\Interface.pdb
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\UniServeur\Interface\bin\Debug\Interface.dll
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\UniServeur\Interface\bin\Debug\Interface.pdb
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\UniServeur\Interface\obj\Debug\Interface.csproj.AssemblyReference.cache
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\UniServeur\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\UniServeur\Interface\obj\Debug\Interface.dll
+C:\Users\kelly\source\repos\Projet Groupe Intense C#\UniServeur\Interface\obj\Debug\Interface.pdb
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\UniServeur\Interface\bin\Debug\Interface.dll
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\UniServeur\Interface\bin\Debug\Interface.pdb
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\UniServeur\Interface\obj\Debug\Interface.csproj.AssemblyReference.cache
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\UniServeur\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\UniServeur\Interface\obj\Debug\Interface.dll
+C:\Users\Kensky\Documents\Projet Groupe Intense C#\UniServeur\Interface\obj\Debug\Interface.pdb

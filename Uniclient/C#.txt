@@ -1,0 +1,100 @@
+   public string[,] ListerPalmares2()
+        {
+
+            //Preparer la requete
+            string msg = null;
+            String req = "select *from palmares order by codepalmares";
+            int r = nombredeligne2();
+             string[,] data = new string[r, 7];
+          
+          
+
+            try
+            {
+                //Etablir la connexion
+                con.Open();
+                cmd = new MySqlCommand(req, con);
+                //Executer la requete
+                //Creer un objet de type ResultSet
+                MySqlDataReader rs = cmd.ExecuteReader();
+                int i = 0;
+                while (rs.Read())
+                {
+
+                  //  msg = rs.GetString("notenormal");
+                    String Codepalmares = rs.GetString(0);
+                    String Id_Opt = rs.GetString(1);
+                    String Id_Cours = rs.GetString(2);
+                    String NomVacation = rs.GetString(3);
+                    int Coeficienttotal = rs.GetInt32(4);
+                    String Promotion = rs.GetString(5);
+                    String Datepalmares = rs.GetString(6);
+
+                    ServicesCours ser = new ServicesCours();
+                    String NomOptions = ser.RechercherNomOptions(Id_Opt);
+                    String Nomcours = ser.RechercherCours(Id_Cours);
+                    EvaluationsNormalDal pad = new EvaluationsNormalDal();
+             //  string note=     RechercherNomOptions2();
+
+                    data[i,0] = Codepalmares;
+                    data[i,1] = NomOptions;
+                    data[i,2] = Nomcours;
+                    data[i,3] = NomVacation;
+                    data[i, 4] = Coeficienttotal.ToString();
+                    data[i,5] = Promotion;
+                    data[i,6] = Datepalmares;
+
+                    i++;
+
+                }
+            }
+            catch (Exception ex)
+            {
+                // msg = "" + (ex.ToString());
+            }
+            finally
+            {
+                if (con != null)
+                {
+                    con.Close();
+                }
+            }
+            return data;
+        }
+
+
+    void listerpalmaresse() {
+
+            dataGridView1.ColumnCount = 7;
+            dataGridView1.Columns[0].Name = "code";
+            dataGridView1.Columns[1].Name = "Options";
+            dataGridView1.Columns[2].Name = "Cours";
+            dataGridView1.Columns[3].Name = "Vacation";
+            dataGridView1.Columns[4].Name = "Coefficient";
+            dataGridView1.Columns[5].Name = "Promotion";
+            dataGridView1.Columns[6].Name = "Date";
+
+
+
+            String[,] Palmares = Pal.ListerPalmares2();
+
+            int ligne = Palmares.Length;
+            int div = ligne / 7;
+
+
+            int i;
+            for (i = 0; i < div; i++)
+            {
+                string Codepalmares = Palmares[i, 0];
+                string NomOptions = Palmares[i, 1];
+                string Nomcours = Palmares[i, 2];
+                string Vacation = Palmares[i, 3];
+                string Coefficient = Palmares[i, 4];
+                string Promotions = Palmares[i, 5];
+                string Date = Palmares[i, 6];
+
+                dataGridView1.Rows.Add(Codepalmares, NomOptions, Nomcours, Vacation, Coefficient, Promotions, Date);
+            }
+   
+        
+        }
