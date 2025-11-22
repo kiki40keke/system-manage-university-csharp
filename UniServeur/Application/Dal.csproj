@@ -41,7 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
+    <Compile Include="App.cs" />
     <Compile Include="EmployerDal.cs" />
     <Compile Include="EtudiantsDal.cs" />
     <Compile Include="EvaluationsNormalDal.cs" />

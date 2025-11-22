@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Kensky\\Documents\\Projet Groupe Intense C#\\UniServeur\\",
+  "WorkspaceRootPath": "C:\\Users\\Kensky\\Documents\\SystemUniversity\\SystemUniversityC#\\UniServeur\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1F40C394-3B12-44E1-9D5D-9D08A4DC7668}|Application\\Dal.csproj|c:\\users\\kensky\\documents\\projet groupe intense c#\\uniserveur\\application\\etudiantsdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1F40C394-3B12-44E1-9D5D-9D08A4DC7668}|Application\\Dal.csproj|c:\\users\\kensky\\documents\\systemuniversity\\systemuniversityc#\\uniserveur\\application\\utilisateurdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F40C394-3B12-44E1-9D5D-9D08A4DC7668}|Application\\Dal.csproj|solutionrelative:application\\utilisateurdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F40C394-3B12-44E1-9D5D-9D08A4DC7668}|Application\\Dal.csproj|c:\\users\\kensky\\documents\\systemuniversity\\systemuniversityc#\\uniserveur\\application\\etudiantsdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F40C394-3B12-44E1-9D5D-9D08A4DC7668}|Application\\Dal.csproj|solutionrelative:application\\etudiantsdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8DB91DA1-6420-41A2-BE75-10B115A708D1}|Controlleur\\Controlleur.csproj|c:\\users\\kensky\\documents\\projet groupe intense c#\\uniserveur\\controlleur\\controlleuretudiants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8DB91DA1-6420-41A2-BE75-10B115A708D1}|Controlleur\\Controlleur.csproj|solutionrelative:controlleur\\controlleuretudiants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{47D78A8B-A3E9-47D0-B392-086B2E23E43F}|Interface\\Interface.csproj|c:\\users\\kensky\\documents\\projet groupe intense c#\\uniserveur\\interface\\ietudiants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{47D78A8B-A3E9-47D0-B392-086B2E23E43F}|Interface\\Interface.csproj|solutionrelative:interface\\ietudiants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1F40C394-3B12-44E1-9D5D-9D08A4DC7668}|Application\\Dal.csproj|c:\\users\\kensky\\documents\\systemuniversity\\systemuniversityc#\\uniserveur\\application\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F40C394-3B12-44E1-9D5D-9D08A4DC7668}|Application\\Dal.csproj|solutionrelative:application\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,43 +22,44 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "IEtudiants.cs",
-              "DocumentMoniker": "C:\\Users\\Kensky\\Documents\\Projet Groupe Intense C#\\UniServeur\\Interface\\IEtudiants.cs",
-              "RelativeDocumentMoniker": "Interface\\IEtudiants.cs",
-              "ToolTip": "C:\\Users\\Kensky\\Documents\\Projet Groupe Intense C#\\UniServeur\\Interface\\IEtudiants.cs",
-              "RelativeToolTip": "Interface\\IEtudiants.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAdAAAAAAAAAA==",
+              "Title": "App.cs",
+              "DocumentMoniker": "C:\\Users\\Kensky\\Documents\\SystemUniversity\\SystemUniversityC#\\UniServeur\\Application\\App.cs",
+              "RelativeDocumentMoniker": "Application\\App.cs",
+              "ToolTip": "C:\\Users\\Kensky\\Documents\\SystemUniversity\\SystemUniversityC#\\UniServeur\\Application\\App.cs",
+              "RelativeToolTip": "Application\\App.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswB8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T07:44:30.953Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ControlleurEtudiants.cs",
-              "DocumentMoniker": "C:\\Users\\Kensky\\Documents\\Projet Groupe Intense C#\\UniServeur\\Controlleur\\ControlleurEtudiants.cs",
-              "RelativeDocumentMoniker": "Controlleur\\ControlleurEtudiants.cs",
-              "ToolTip": "C:\\Users\\Kensky\\Documents\\Projet Groupe Intense C#\\UniServeur\\Controlleur\\ControlleurEtudiants.cs",
-              "RelativeToolTip": "Controlleur\\ControlleurEtudiants.cs",
-              "ViewState": "AgIAAFMAAAAAAAAAAAAwwF8AAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T07:43:28.554Z",
+              "WhenOpened": "2025-11-22T08:49:20.575Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UtilisateurDal.cs",
+              "DocumentMoniker": "C:\\Users\\Kensky\\Documents\\SystemUniversity\\SystemUniversityC#\\UniServeur\\Application\\UtilisateurDal.cs",
+              "RelativeDocumentMoniker": "Application\\UtilisateurDal.cs",
+              "ToolTip": "C:\\Users\\Kensky\\Documents\\SystemUniversity\\SystemUniversityC#\\UniServeur\\Application\\UtilisateurDal.cs",
+              "RelativeToolTip": "Application\\UtilisateurDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T09:01:27.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "EtudiantsDal.cs",
-              "DocumentMoniker": "C:\\Users\\Kensky\\Documents\\Projet Groupe Intense C#\\UniServeur\\Application\\EtudiantsDal.cs",
+              "DocumentMoniker": "C:\\Users\\Kensky\\Documents\\SystemUniversity\\SystemUniversityC#\\UniServeur\\Application\\EtudiantsDal.cs",
               "RelativeDocumentMoniker": "Application\\EtudiantsDal.cs",
-              "ToolTip": "C:\\Users\\Kensky\\Documents\\Projet Groupe Intense C#\\UniServeur\\Application\\EtudiantsDal.cs",
+              "ToolTip": "C:\\Users\\Kensky\\Documents\\SystemUniversity\\SystemUniversityC#\\UniServeur\\Application\\EtudiantsDal.cs",
               "RelativeToolTip": "Application\\EtudiantsDal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-22T07:37:05.332Z",
               "EditorCaption": ""

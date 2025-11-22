@@ -9,12 +9,9 @@ using Domaine;
 using System.Data;
 namespace Dal
 {
-   public class EtudiantsDal
+   public class EtudiantsDal :App
     {
-        public static string conStr = "server=localhost;user=root;password='3059';database=gestionuniversite";
-        public static MySqlConnection con = new MySqlConnection(conStr);
-        public static MySqlCommand cmd = null;
-        public static MySqlDataAdapter adapter = new MySqlDataAdapter();
+     
 
         public string EnregistreEtudiant(Etudiants Etud)
         {

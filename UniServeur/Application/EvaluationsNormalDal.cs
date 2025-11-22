@@ -11,12 +11,9 @@ using System.Collections;
 
 namespace Dal
 {
-    public class EvaluationsNormalDal
+    public class EvaluationsNormalDal : App
     {
-        public static string conStr = "server=127.0.0.1;user=root;password='';database=GestionUniversite";
-        public static MySqlConnection con = new MySqlConnection(conStr);
-        public static MySqlCommand cmd = null;
-        public static MySqlDataAdapter adapter = new MySqlDataAdapter();
+    
 
         public string EnregistrerEvaluation(EvaluationsNormal Eva)
         {

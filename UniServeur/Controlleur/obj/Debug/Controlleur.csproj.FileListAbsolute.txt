@@ -81,3 +81,27 @@ C:\Users\Kensky\Documents\Projet Groupe Intense C#\UniServeur\Controlleur\obj\De
 C:\Users\Kensky\Documents\Projet Groupe Intense C#\UniServeur\Controlleur\obj\Debug\Controll.B7FB74CE.Up2Date
 C:\Users\Kensky\Documents\Projet Groupe Intense C#\UniServeur\Controlleur\obj\Debug\Controlleur.dll
 C:\Users\Kensky\Documents\Projet Groupe Intense C#\UniServeur\Controlleur\obj\Debug\Controlleur.pdb
+C:\Users\Kensky\Documents\SystemUniversity\SystemUniversityC#\UniServeur\Controlleur\bin\Debug\Controlleur.dll
+C:\Users\Kensky\Documents\SystemUniversity\SystemUniversityC#\UniServeur\Controlleur\bin\Debug\Controlleur.pdb
+C:\Users\Kensky\Documents\SystemUniversity\SystemUniversityC#\UniServeur\Controlleur\bin\Debug\Application.dll
+C:\Users\Kensky\Documents\SystemUniversity\SystemUniversityC#\UniServeur\Controlleur\bin\Debug\Domaine.dll
+C:\Users\Kensky\Documents\SystemUniversity\SystemUniversityC#\UniServeur\Controlleur\bin\Debug\Interface.dll
+C:\Users\Kensky\Documents\SystemUniversity\SystemUniversityC#\UniServeur\Controlleur\bin\Debug\MySql.Data.dll
+C:\Users\Kensky\Documents\SystemUniversity\SystemUniversityC#\UniServeur\Controlleur\bin\Debug\Google.Protobuf.dll
+C:\Users\Kensky\Documents\SystemUniversity\SystemUniversityC#\UniServeur\Controlleur\bin\Debug\ZstdNet.dll
+C:\Users\Kensky\Documents\SystemUniversity\SystemUniversityC#\UniServeur\Controlleur\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Kensky\Documents\SystemUniversity\SystemUniversityC#\UniServeur\Controlleur\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Kensky\Documents\SystemUniversity\SystemUniversityC#\UniServeur\Controlleur\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Kensky\Documents\SystemUniversity\SystemUniversityC#\UniServeur\Controlleur\bin\Debug\System.Memory.dll
+C:\Users\Kensky\Documents\SystemUniversity\SystemUniversityC#\UniServeur\Controlleur\bin\Debug\System.Buffers.dll
+C:\Users\Kensky\Documents\SystemUniversity\SystemUniversityC#\UniServeur\Controlleur\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Kensky\Documents\SystemUniversity\SystemUniversityC#\UniServeur\Controlleur\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Kensky\Documents\SystemUniversity\SystemUniversityC#\UniServeur\Controlleur\bin\Debug\Application.pdb
+C:\Users\Kensky\Documents\SystemUniversity\SystemUniversityC#\UniServeur\Controlleur\bin\Debug\Domaine.pdb
+C:\Users\Kensky\Documents\SystemUniversity\SystemUniversityC#\UniServeur\Controlleur\bin\Debug\Interface.pdb
+C:\Users\Kensky\Documents\SystemUniversity\SystemUniversityC#\UniServeur\Controlleur\bin\Debug\MySql.Data.xml
+C:\Users\Kensky\Documents\SystemUniversity\SystemUniversityC#\UniServeur\Controlleur\obj\Debug\Controlleur.csproj.AssemblyReference.cache
+C:\Users\Kensky\Documents\SystemUniversity\SystemUniversityC#\UniServeur\Controlleur\obj\Debug\Controlleur.csproj.CoreCompileInputs.cache
+C:\Users\Kensky\Documents\SystemUniversity\SystemUniversityC#\UniServeur\Controlleur\obj\Debug\Controll.B7FB74CE.Up2Date
+C:\Users\Kensky\Documents\SystemUniversity\SystemUniversityC#\UniServeur\Controlleur\obj\Debug\Controlleur.dll
+C:\Users\Kensky\Documents\SystemUniversity\SystemUniversityC#\UniServeur\Controlleur\obj\Debug\Controlleur.pdb
